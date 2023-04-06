@@ -15,7 +15,7 @@ int is_prime_number(int n)
 }
 
 /**
-* prime_number - a function that checks if a number is prime
+* prime_number - a function that checks if a number is prime using recursion
 * @n: the number to be checked
 * @x: a variable used to iterate
 * Return: returns 1 if the number is prime and 0 otherwise
